@@ -7,3 +7,5 @@ Here's Tempest, a normal graduate. Currently looking for a job.
 Be free to ask me about anything [here](https://github.com/Tempe5tas/Tempe5tas/issues).
 
 You can communicate with me in Chinese or English.
+
+![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=tempe5tas&cn=true)
