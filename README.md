@@ -1,7 +1,12 @@
-### Hi there 👋
-Here's Tempest, a normal graduate. Currently looking for a job.
+## Hi there 👋
+Here's Tempest, a normal graduate. Currently working as a technical support.
 
-- I'm currently learning more about Go programming language.
+### Technical abilities
+- Due to the nature of my work, I am currently learning operation and maintenance knowledge.
+- I'm learning more about Go programming language after work.
+
+### Daily life
+- Planning to involve into HEMA(Historical European Martial Arts)🗡 after my probation period (if passed).
 - I like wargame🔫 / music games🎮 / PC hardware assembling🖥 (and exploring new things/techniques🔬).
 
 Be free to ask me about anything [here](https://github.com/Tempe5tas/Tempe5tas/issues).
