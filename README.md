@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here's Tempest, a normal graduate. Currently working as a technical support.
+Here's Tempest, a normal graduate. Currently working as a technical support specialist.
 
 ### Technical abilities
 - Due to the nature of my work, I am currently learning operation and maintenance knowledge.
