@@ -13,4 +13,4 @@ Be free to ask me about anything [here](https://github.com/Tempe5tas/Tempe5tas/i
 
 You can communicate with me in Chinese or English.
 
-[![LeetCode user Tempe5tas](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTempe5tas%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/Tempe5tas/)
+[![LeetCode user Tempe5tas](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/tempe5tas.svg)](https://leetcode.cn/Tempe5tas/)
