@@ -12,5 +12,3 @@ Here's Tempest, a normal graduate. Currently working as a technical support spec
 Be free to ask me about anything [here](https://github.com/Tempe5tas/Tempe5tas/issues).
 
 You can communicate with me in Chinese or English.
-
-[![LeetCode user Tempe5tas](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/tempe5tas.svg)](https://leetcode.cn/Tempe5tas/)
