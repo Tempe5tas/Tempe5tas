@@ -1,14 +1,17 @@
-## Hi there 👋
-Here's Tempest, a normal graduate. Currently working as a technical support specialist.
+## About me
+ID: Tempest / Tempestas
+Gender: Male
+Languages: Chinese (Native speaker) / English (CEFR C2 Proficient)
+Position: Field Application Engineer / Technical Support
 
 ### Technical abilities
-- Due to the nature of my work, I am currently learning operation and maintenance knowledge.
-- I'm learning more about Go programming language after work.
+- Due to the nature of my job, I am currently learning about Operations and Maintenance.
+- Planning to learn more about Go.
 
 ### Daily life
-- Planning to involve into [HEMA](https://en.wikipedia.org/wiki/Historical_European_martial_arts)🗡 after my probation period (if passed).
-- I like wargame🔫 / music games🎮 / PC hardware assembling🖥 (and exploring new things/techniques🔬).
+- 🪖 Wargame / Milsim
+- 🕹️ Music Games / FPS / SLG
+- 🖥️ PC hardware / NAS / Server
+- 📜 History / Military Theory
 
 Be free to ask me about anything [here](https://github.com/Tempe5tas/Tempe5tas/issues).
-
-You can communicate with me in Chinese or English.
