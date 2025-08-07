@@ -16,7 +16,8 @@ Position:
 - Planning to learn more about Go. 
 
 ### Daily life
-- 🪖 Wargame / Milsim 
+- 🪖 Wargame / Milsim
+- 🔫 IPSC (Action Air Handgun)
 - 🕹️ Music Games / FPS / SLG 
 - 🖥️ PC hardware / NAS / Server 
 - 📜 History / Military Theory 
